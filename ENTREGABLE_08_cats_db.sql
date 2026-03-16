@@ -1,9 +1,4 @@
--- ============================================================
--- GA-CATS-01 · SENA CEET · ADSO
--- Base de Datos: cats-db (Azure SQL Database)
--- Razas: Abisinio, Bengala, Maine Coon, Pelo Corto,
---        Persa, Ragdoll, Siamés, Sphynx
--- ============================================================
+
 
 -- ────────────────────────────────────────────────────────────
 -- 1. TABLAS
